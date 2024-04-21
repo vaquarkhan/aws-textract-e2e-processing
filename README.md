@@ -1,5 +1,23 @@
 # Amazon Textract IDP - End to End Document Processing 
 
+
+py -o
+
+py -3.8
+py -3.11
+
+
+
+python -m ensurepip --upgrade
+python -m pip install --upgrade pip
+python -m pip install --upgrade virtualenv
+
+python -m venv .venv
+source .venv/bin/activate
+
+
+
+
 # Deployment
 
 This workflow is heavily based on the [Amazon Textract IDP CDK Constructs](https://github.com/aws-samples/amazon-textract-idp-cdk-constructs/) as well as the [Amazon Textract IDP CDK Stack Samples.](https://github.com/aws-samples/amazon-textract-idp-cdk-stack-samples)
