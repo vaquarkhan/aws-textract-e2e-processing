@@ -15,7 +15,8 @@ python -m pip install --upgrade virtualenv
 python -m venv .venv
 source .venv/bin/activate
 
-
+cd venv.
+.\Scripts\activate
 
 
 # Deployment
