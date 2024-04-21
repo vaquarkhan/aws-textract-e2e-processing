@@ -9,13 +9,17 @@ py -3.11
 
 
 python -m ensurepip --upgrade
+
 python -m pip install --upgrade pip
+
 python -m pip install --upgrade virtualenv
 
 python -m venv .venv
+
 source .venv/bin/activate
 
 cd venv.
+
 .\Scripts\activate
 
 
